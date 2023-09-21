@@ -7,7 +7,7 @@ This data sheet template is taken directly from Gebru, T., Morgenstern, J., Vecc
 ## Motivation
 
 - **For what purpose was the dataset created?** Was there a specific task in mind? Was there a specific gap that needed to be filled? Please provide a description.
-- **Who created the dataset**** (e.g., which team, research group) and on behalf of which entity (e.g., company, institution, organization)?**
+- **Who created the dataset** (e.g., which team, research group) and on behalf of which entity (e.g., company, institution, organization)?
 - **Who funded the creation of the dataset?** If there is an associated grant, please provide the name of the grantor and the grant name and number.
 - **Any other comments?**
 
